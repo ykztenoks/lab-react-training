@@ -1,0 +1,22 @@
+.divcolor {
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.divcolor2 {
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
